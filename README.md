@@ -1,2 +1,2 @@
-# mom
-heyy guyz
+# python
+hello world
